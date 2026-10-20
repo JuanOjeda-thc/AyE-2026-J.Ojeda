@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp16
 {
-    internal class Vector
+    internal class vector
     {
         public int Id { get; set; }
         public int x { get; set; }
